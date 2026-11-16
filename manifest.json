@@ -1,0 +1,13 @@
+{
+  "name": "Semestre a Barcelona",
+  "short_name": "Barcelona hub",
+  "description": "Study abroad planner: classes, deadlines, content, travel, budget and journal.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0d1220",
+  "theme_color": "#0d1220",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
